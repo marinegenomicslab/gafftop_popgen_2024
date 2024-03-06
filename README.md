@@ -1,1 +1,1 @@
-Rscript -e "rmarkdown::render('BMA_Analysis.Rmd')"
+David S. Portnoy, Shannon J. O’Leary, Andrew T. Fields, Christopher M. Hollenbeck, R. Dean Grubbs, Cheston T. Peterson, Jayne M. Gardiner, Douglas H. Adams, Brett Falterman, James M. Drymond, Jeremy M. Higgs, Erin L. Pulster, Steven A. Murawski (In Review) Complex patterns of genetic population structure int the mouthbrooding marine catfish, Bagre marinus, in the Gulf of Mexico and U.S. Atlantic. Molecular Ecology.
