@@ -3,3 +3,5 @@ Portnoy, D. S., O’Leary, S. J., Fields, A. T., Hollenbeck, C. M., Grubbs, R. D
 Metadata available at GRIIDC: https://data.griidc.org/data/R6.x805.000:0005
 
 Sequencing available at SRA: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA986848/
+
+Genepop files are available on Dryad: https://doi.org/10.5061/dryad.nvx0k6f0n
