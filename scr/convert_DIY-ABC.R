@@ -121,7 +121,7 @@ for (p in strata$POP){
 
 #Title the DIYABC file
 #This includes the sex ratio
-echo "Angel Shark DIYABC by KMEANS < NM = 1.0NF >" > DIYABC.file
+echo "Gafftop DIYABC by KMEANS < NM = 1.0NF >" > DIYABC.file
 
 #Add the loci to the DIYABC file
 awk 'BEGIN{OFS="\t"}{print $0, "<A>"}' loci.txt >> DIYABC.file
